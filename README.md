@@ -4,5 +4,4 @@
 ödev tamamlandı.
 
 <h4> gif eklendi </h4>
-
-![](screen-record.gif)
+![Screen-record](Screen-record.gif "Bootsrap Örnek Proje")

@@ -5,4 +5,4 @@
 
 <h4> gif eklendi </h4>
 
-![](screen-record.gif)
+![](Screen-record.gif)
